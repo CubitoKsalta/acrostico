@@ -1,0 +1,59 @@
+header {
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+    background-color: gray;
+    border: solid rgb(80, 80, 80) 7px;
+}
+
+ul {
+    color: rbg(0);
+    background-color: lightgray;
+    font-family: cursive;
+}
+
+#titulo {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(141, 141, 141);
+    padding: 20px;
+    border: solid dimgrey;
+}
+
+section {
+    background-color: rgb(172, 172, 172);
+}
+
+#autor {
+    background-color: rgb(141, 141, 141);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: rgb(51, 51, 51);
+    text-align:center;
+}
+
+#acrostico {
+    font-weight: lighter;
+    text-align: left;
+    font-family: cursive;
+    font-size: 39px;
+    background-color: rgb(55, 57, 59);
+    padding: 25px;
+    border: solid rgb(80, 80, 80) 7px;
+}
+
+div {
+    background-color: silver;
+}
+
+#creditos {
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(168, 168, 168)
+}
+
+#imagen {
+    background-color: rgb(228, 228, 228);
+    margin-top: auto;
+}
